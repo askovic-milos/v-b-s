@@ -1,0 +1,4 @@
+3. ista visina za sve stranice
+4. struktura html
+5. struktura css
+6. stavi slike u svoje foldere

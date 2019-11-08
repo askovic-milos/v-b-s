@@ -1,0 +1,21 @@
+main {
+  padding-bottom: 80px;
+  margin-top: 2.2em;
+}
+
+#services {
+  margin-top: 4em;
+}
+
+#services p {
+  width: 70%;
+}
+
+@media (max-width: 500px){
+ #services {
+   margin-top: 2em;
+ }
+ main {
+   padding-bottom: 20px;
+ }
+}
