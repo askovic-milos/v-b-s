@@ -144,6 +144,18 @@ nav {
     margin-bottom: 3em;
     margin-right: 0;
   }
+  #company {
+    font-size: 50px;
+    margin-left: 0.3em;
+  }
+  nav {
+    height: 10em;
+  }
+  .navbar-toggler {
+    width: 6em;
+    height: 4em;
+    margin-right: 1em;
+  }
 }
 
 .imageHover.caption {
