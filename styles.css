@@ -137,6 +137,20 @@ nav {
     flex-direction: column;
     align-items: center;
   }
+  main{
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  #introduction {
+    width: 50em;
+
+  }
+  #introduction h5 {
+    font-size: 45px;
+  }
+  #introduction h6 {
+    font-size: 35px;
+  }
   #gallery {
     margin: 10px 0 15px 0;
   }
@@ -148,13 +162,16 @@ nav {
     font-size: 50px;
     margin-left: 0.3em;
   }
-  nav {
-    height: 10em;
-  }
   .navbar-toggler {
-    width: 6em;
-    height: 4em;
-    margin-right: 1em;
+    width: 7em;
+    height: 5em;
+    margin: 10px 1em 10px 0;
+  }
+  #navbarText li {
+    font-size: 40px;
+  }
+  #navbarText span {
+    font-size: 30px;
   }
 }
 
