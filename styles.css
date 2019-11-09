@@ -171,6 +171,11 @@ nav {
     width: 7em;
     height: 5em;
     margin: 10px 1em 10px 0;
+    background-color: lightgray;
+    border-radius: 10%;
+  }
+  .navbar-toggler:active {
+    -webkit-filter:blur(4px);
   }
   #navbarText li {
     font-size: 40px;
@@ -184,7 +189,6 @@ nav {
   footer p {
     font-size: 33px;
   }
-
 }
 
 .imageHover.caption {
