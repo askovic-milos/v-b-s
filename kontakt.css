@@ -73,35 +73,53 @@ main {
   font-weight: bold;
 }
 
-@media (max-width: 500px){
-  #map {
-    margin-top: 20px;
-  }
-  #services {
-    margin-top: 20px;
-  }
-  #additionalcard {
-    margin-top: 20px;
-  }
-  #open {
-    margin-bottom: 20px;
-  }
-}
-
 @media (max-width: 1000px){
+  #introduction {
+    height: auto;
+  }
+  #introduction h6 {
+    margin-top: 20px;
+    font-size: 45px;
+  }
+  #introduction ul {
+    margin-top: 30px;
+  }
+  #introduction li {
+    font-size: 40px;
+  }
   #map {
     margin-top: 20px;
+    width: 50em;
+    height: 35em;
   }
   #services {
     margin-top: 20px;
+    width: 50em;
+    height: auto;
+  }
+  #services h6 {
+    font-size: 45px;
+  }
+  #services li {
+    font-size: 40px;
   }
   #additionalcard {
+    margin-top: 20px;
+    width: 50em;
+    height: auto;
+  }
+  #additionalcard h6 {
+    font-size: 50px;
+  }
+  #additionalcard p {
+    font-size: 40px;
     margin-top: 20px;
   }
   #open {
     margin-bottom: 35px;
   }
-  main {
-    margin-top: 0;
+  iframe {
+    width: 50em;
+    height: 35em;
   }
 }

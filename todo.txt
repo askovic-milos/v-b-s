@@ -1,4 +1,7 @@
-3. ista visina za sve stranice
-4. struktura html
-5. struktura css
-6. stavi slike u svoje foldere
+ista visina za sve stranice
+struktura html
+struktura css
+stavi slike u svoje foldere
+korrektuj padding u svim
+adaptiraj sve za mobilni
+prebaci om oss css u styles
