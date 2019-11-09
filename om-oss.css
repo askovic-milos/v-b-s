@@ -12,6 +12,9 @@
     height: auto;
     width: auto;
     margin-top: 3vh;
-    margin-bottom: 7vh;
+    margin-bottom: 6vh;
+  }
+  #services {
+    padding-bottom: 3vh;
   }
 }
