@@ -5,3 +5,5 @@ stavi slike u svoje foldere
 korrektuj padding u svim
 adaptiraj sve za mobilni
 prebaci om oss css u styles
+om oss cant scroll
+use unit other than vh
