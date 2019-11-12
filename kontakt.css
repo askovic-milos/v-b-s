@@ -107,7 +107,6 @@ main {
     margin-top: 20px;
     width: 50em;
     height: auto;
-    padding-bottom: 20px;
   }
   #additionalcard h6 {
     font-size: 50px;
@@ -118,6 +117,11 @@ main {
   }
   #open {
     margin-bottom: 35px;
+    padding-bottom: 90px;
+  }
+
+  #open h4 {
+    font-size: 100px;
   }
   iframe {
     width: 50em;

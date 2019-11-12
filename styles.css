@@ -125,17 +125,17 @@ nav {
   }
 
   #introduction h5 {
-    font-size: 2vh;
+    font-size: 50px;
   }
   #introduction h6 {
-    font-size: 1.8vh;
+    font-size: 40px;
   }
   #introduction h6 {
     margin-top: 1em;
   }
   #gallery img {
-    width: 18vh;
-    height: 12vh;
+    width: 24em;
+    height: 16em;
     margin-left: 20px;
     margin-right: 20px;
   }
@@ -150,16 +150,16 @@ nav {
   }
 
   #services p {
-    font-size: 2vh;
+    font-size: 38px;
     width: 100%;
   }
 
   #services h6 {
-    font-size: 2.2vh;
+    font-size: 45px;
   }
 
   #services p:first-child {
-    margin-bottom: 4vh;
+    margin-bottom: 30px;
     text-align: center;
   }
 
@@ -184,7 +184,7 @@ nav {
     font-size: 30px;
   }
   .imageHover.caption i {
-    font-size: 7vh;
+    font-size: 5em;
   }
   footer p {
     font-size: 33px;

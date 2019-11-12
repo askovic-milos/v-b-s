@@ -11,14 +11,14 @@
   #introduction {
     height: auto;
     width: auto;
-    margin-top: 3vh;
-    margin-bottom: 5vh;
+    margin-top: 50px;
+    margin-bottom: 70px;
   }
   #services p:first-child{
     margin-top: 20px;
-    margin-bottom: 3vh;
+    margin-bottom: 50px;
   }
   #services {
-    padding-bottom: 6vh;
+    padding-bottom: 100px;
   }
 }

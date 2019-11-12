@@ -10,7 +10,7 @@ main {
 #introduction {
   height: auto;
   width: auto;
-  margin-bottom: 2vh;
+  margin-bottom: 35px;
 }
 #introduction h6 {
   margin-top: 20px;
@@ -19,15 +19,15 @@ main {
 }
 #introduction h5 {
   margin-bottom: 30px;
-  font-size: 2.3vh;
+  font-size: 50px;
 }
 #introduction h6:last-child {
   margin-top: 40px;
 }
 #gallery {
-  margin-bottom: 0vh;
+  margin-bottom: 0;
 }
 #services {
-  padding-bottom: 5vh;
+  padding-bottom: 100px;
 }
 }
