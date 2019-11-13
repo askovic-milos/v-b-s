@@ -29,12 +29,12 @@ footer a {
 
 #introduction {
   width: 30em;
-  margin: 1em 3em 3em 3em;
+  margin: 0em 3em 3em 3em;
   margin-bottom: 1em;
   text-align: justify;
   padding: 20px;
   box-shadow: 0px 10px 21px -1px rgba(0,0,0,0.42);
-  background-color: rgba(166, 193, 238, 0.6)
+  background-color: rgba(166, 193, 238, 0.6);
 }
 
 #introduction h6 {
@@ -61,6 +61,7 @@ footer a {
   margin-right: 20px;
 }
 
+
 #gallery {
   display: flex;
   flex-direction: row;
@@ -82,6 +83,11 @@ main {
   flex-direction: column;
   margin-right: 27.5em;
   margin-bottom: 10px;
+  text-align: justify;
+  padding: 20px;
+  padding-bottom: 5px;
+  box-shadow: 0px 10px 21px -1px rgba(0,0,0,0.42);
+  background-color: rgba(166, 193, 238, 0.6)
 }
 
 #services h6 {
@@ -98,8 +104,9 @@ hr {
 }
 
 nav {
-  box-shadow: inset 0px -5px 8px -3px rgba(0,0,0,0.75);
+  box-shadow: inset 0px -5px 8px -3px rgba(0,0,0,0.55);
 }
+
 
 #company {
   font-family: 'Hammersmith One', sans-serif;
@@ -145,8 +152,8 @@ nav {
 
   #services {
     margin-right: 0;
-    width: 100%;
-    padding: 15px;
+    width: auto;
+    padding: 30px;
   }
 
   #services p {

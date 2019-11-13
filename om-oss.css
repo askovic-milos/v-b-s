@@ -1,8 +1,11 @@
 #introduction {
   height: 10em;
-  margin: 3em 3em 3em 3em;
+  margin: 1em 3em 3em 3em;
 }
 
+#gallery {
+  margin-bottom: 30px;
+}
 #services {
   margin-top: 1.3em;
 }

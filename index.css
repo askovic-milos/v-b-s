@@ -1,11 +1,8 @@
 #introduction {
-  height: 10em;
-  margin: 3em 3em 3em 3em;
+  height: auto;
+  margin: 0em 3em 0em 3em;
 }
 
-#services {
-  margin-top: 1.3em;
-}
 
 @media (max-width: 1000px){
   #introduction {

@@ -6,6 +6,10 @@ main {
   margin-top: 25px;
 }
 
+#gallery {
+  margin-bottom: 15px;
+}
+
 @media (max-width: 1000px){
 #introduction {
   height: auto;
