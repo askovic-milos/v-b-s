@@ -13,8 +13,10 @@ main {
 @media (max-width: 1000px){
 #introduction {
   height: auto;
-  width: auto;
+  width: 50em;
+  margin: auto;
   margin-bottom: 35px;
+  margin-top: 30px;
 }
 #introduction h6 {
   margin-top: 20px;
@@ -29,9 +31,13 @@ main {
   margin-top: 40px;
 }
 #gallery {
-  margin-bottom: 0;
+  margin-top: 30px;
 }
 #services {
-  padding-bottom: 100px;
+
+  width: 50em;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 140px;
 }
 }

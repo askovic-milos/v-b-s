@@ -17,8 +17,10 @@ main {
 @media (max-width: 1000px){
 #introduction {
   height: auto;
-  width: auto;
+  width: 50em;
+  margin: auto;
   margin-bottom: 3vh;
+  margin-top: 20px;
 }
 #introduction h6 {
   margin-top: 20px;
@@ -36,7 +38,10 @@ main {
   margin-bottom: 0;
 }
 #services {
-  margin-top: 50px;
+  width: 50em;
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 110px;
 }
 #services h6 {
   text-align: center;

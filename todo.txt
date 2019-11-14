@@ -3,7 +3,3 @@ struktura html
 struktura css
 stavi slike u svoje foldere
 korrektuj padding u svim
-adaptiraj sve za mobilni
-prebaci om oss css u styles
-contact maps
-textbox size responsive

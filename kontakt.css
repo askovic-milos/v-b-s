@@ -76,6 +76,7 @@ main {
 @media (max-width: 1000px){
   #introduction {
     height: auto;
+    width: 50em;
   }
   #introduction h6 {
     margin-top: 20px;

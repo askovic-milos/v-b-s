@@ -13,11 +13,16 @@
 @media (max-width: 1000px){
   #introduction {
     height: auto;
-    width: auto;
+    width: 50em;
+    margin: auto;
     margin-top: 50px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
   }
+
   #services {
-    padding-bottom: 50px;
+    width: 50em;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 140px;
   }
 }
