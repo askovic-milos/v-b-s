@@ -1,5 +1,1 @@
-ista visina za sve stranice
-struktura html
-struktura css
-stavi slike u svoje foldere
-korrektuj padding u svim
+remake the entire thing
